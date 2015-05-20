@@ -1,5 +1,8 @@
 #Resource Scheduler
 
+#Owner 
+hraka...@gmail.com on https://code.google.com/p/java-calendar/
+
 #Overview
 Java Swing GUI component for scheduling resource usage. This is not really intended to be used as an all-purpose calendar. For something like that you are better off going to http://www.migcalendar.com/.
 
